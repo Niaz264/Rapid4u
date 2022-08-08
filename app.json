@@ -4,6 +4,6 @@
 	"repository": "https://github.com/Niaz264/Rapid4u",
 	"logo": "http://technomile.github.io/img/cms_buildpack_github.png",
 	"keywords": ["leech", "heroku", "php", "postgresql", "apache", "apache2"],
-	"stack": "heroku-20",
-	"addons": ["heroku-postgresql:hobby-dev"]
+	
+	
 }
